@@ -6,3 +6,8 @@
 3. Shutong Lin
 4. Hanbin Zhou
 
+- `generic_features_for_positive_patient.csv`:
+- `generic_features_for_random_patient.csv`:
+- `sql&preprocessing.ipynb`:
+- `Logistic Regression.ipynb`:
+- `TabNet Deep Learning.ipynb`:
