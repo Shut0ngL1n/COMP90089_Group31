@@ -1,6 +1,10 @@
 # COMP90089_Group31
 
 ### Group 31
+Louis Copland
+Nicholas Larter
+Shutong Lin
+Hanbin Zhou
 
 This repository consists of 3 main directories.
 
